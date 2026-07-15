@@ -11,7 +11,7 @@ Base de Datos: SQL Server
 
 Interfaz Gráfica: Java Swing (JFrame, JPanel, Tablas)
 
-Conceptos de POO Aplicados 🧠
+# Conceptos de POO Aplicados 🧠
 Para este proyecto, apliqué los siguientes pilares de la Programación Orientada a Objetos:
 
 Clases y Objetos: Creación de plantillas (Clases) para representar entidades del mundo real, como Cliente y Proyecto.
