@@ -1,4 +1,5 @@
 # Sistema-Carpinteria-Java
+Descripción
 Este es un sistema de escritorio desarrollado para digitalizar y gestionar los presupuestos, clientes y proyectos de un taller de carpintería ("Ebanix"). Fue creado como un proyecto práctico para aplicar mis conocimientos de programación, pasando de los cálculos manuales a un entorno digital automatizado.
 
 Tecnologías Utilizadas 💻
